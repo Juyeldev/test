@@ -1,5 +1,0 @@
-{{#user}}
-Name: Md. Juyel Ali
-Skills: HTML, CSS, bootstrap, tailwind, JS, React.js, Node.js, MongoDB, Express.js Next.js, JWT, Axios and Many others
-Email: juyeldev53@gmail.com
-{{/user}}
